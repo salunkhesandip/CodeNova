@@ -1,6 +1,6 @@
 package com.cleancoders.features.java.codenova.controller;
 
-import com.cleancoders.features.java.codenova.service.LTS8Service;
+import com.cleancoders.features.java.codenova.service.lts8.LTS8Service;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
