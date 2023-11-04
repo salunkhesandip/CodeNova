@@ -1,5 +1,6 @@
-package com.cleancoders.features.java.codenova.service;
+package com.cleancoders.features.java.codenova.service.lts8;
 
+import com.cleancoders.features.java.codenova.service.Square;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
